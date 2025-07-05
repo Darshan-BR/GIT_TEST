@@ -6,4 +6,4 @@ height = float(input("Enter the height of the rectangle: "))
 area = width * height
 
 # Display the result
-print("The area of the rectangle is:", area)
+print("The area of the rectangle is:->", area)
