@@ -7,3 +7,5 @@ area = width * height
 
 # Display the result
 print("The area of the rectangle is:->", area)
+print("The area of the rectangle is:->", area)
+print("The area of the rectangle is:->", area)
